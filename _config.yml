@@ -65,13 +65,13 @@ search:
     type: insight
 # Comment plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
-comment:
+#comment:
     # Name of the comment plugin
-    type: valine
-    app_id: qJ1j5ywfcROTylNhY413lLBB-MdYXbMMI
-    app_key: Hgd2P7Sqz2cbVxTDs5WxafqG
-    notify: false
-    verify: false  
+    # type: valine
+    # app_id: qJ1j5ywfcROTylNhY413lLBB-MdYXbMMI
+    # app_key: Hgd2P7Sqz2cbVxTDs5WxafqG
+    # notify: false
+    # verify: false  
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 donate:
